@@ -1,1 +1,3 @@
-A basic project created using basics of HTML and CSS, when a user hover mouse pointer over a card from set of cards, then that card reflects on top of other cards.
+"This is a simple project created using the basics of HTML and CSS. When a user hovers the mouse pointer over any card from a set of cards, that card appears on top of the other cards."
+
+This project demonstrates how to use basic HTML and CSS to create a set of interactive cards. When the user moves the mouse pointer over any card, that specific card visually rises above the other cards. This effect is achieved through CSS styling and provides an engaging user experience, highlighting the hovered card prominently. The project serves as an introduction to CSS hover effects and the use of z-index for layering elements.
